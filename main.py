@@ -35,7 +35,7 @@ async def start(bot, update):
                               "**NOW:-** "
                                        
                                        "Press **/login** to continue..\n\n"
-                                     "Bot made by **DRAGO**" )
+                                     "Bot made by **VILLAN**" )
 
 
 
